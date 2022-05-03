@@ -5,3 +5,4 @@ x = 'spam!'
 y = 'get'
 z = 'you'
 print(x*8)
+print(y*8)
